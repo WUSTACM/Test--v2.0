@@ -8,11 +8,11 @@ hero:
   tagline: 学习，生活，诗与远方
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 进入文档【序言】
+      link: /xuyan
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GO TO CSDIY
+      link: https://csdiy.wiki/
                             
 features:
   - title: Feature A
