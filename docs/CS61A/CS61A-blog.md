@@ -1,5 +1,5 @@
 ---
-title: CS61A
+title: CS61A简介
 order: 1
 ---
 
