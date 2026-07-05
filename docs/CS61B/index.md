@@ -1,4 +1,4 @@
 ---
 title: CS61B
-order: 5
+order: 6
 ---
